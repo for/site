@@ -1,0 +1,41 @@
+body{
+    background-color: #656565;
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#EEEEEE), to(#DDDDDD), color-stop(.5,#CCCCCC));
+    background: -moz-linear-gradient(top, #A9A9A9 0%, #8D8D8D 50%, #656565 100%);
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
+
+html{
+    height: 100%;
+    width: 100%;
+}
+
+.hrl {
+    border-width: 1px;
+    border-color: #51d630;
+    border-style: solid;
+    position: relative;
+    width: 60%;
+    text-align:center;
+    margin: 20px auto;
+}
+
+.logo{
+    padding-top: 30px;
+    text-align:center;
+    display:block;
+}
+
+h1{
+    font-family: Helvetica;
+    font-size: 3em;
+    font-weight: 100;
+}
+
+h2{
+    font-family: Helvetica;
+    font-weight: 100;
+}
+
